@@ -1,0 +1,5 @@
+﻿  pointer.c
+d:\git code\tongbao\11.16\11.16\pointer.c(21): warning C4013: “getch”未定义；假设外部返回 int
+d:\git code\tongbao\11.16\11.16\pointer.c(28): warning C4716: “diedai”: 必须返回一个值
+  11.16.vcxproj -> D:\git code\tongbao\11.16\Debug\11.16.exe
+  11.16.vcxproj -> D:\git code\tongbao\11.16\Debug\11.16.pdb (Full PDB)
